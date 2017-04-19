@@ -1,0 +1,6 @@
+node_modules
+.
+.ftpauth
+dist
+.DS_Store
+.sass-cache
